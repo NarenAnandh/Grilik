@@ -1,5 +1,5 @@
 # Gui
-This is where you find the graphical user interface fot the game
+This is where you find the graphical user interface for the game
 <br />
 
 Step1:
