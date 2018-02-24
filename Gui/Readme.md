@@ -1,7 +1,7 @@
 # Gui
 This is where you find the graphical user interface fot the game
 
--Step 1:
+*Step 1:
 
 
 
