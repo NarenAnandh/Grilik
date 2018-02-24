@@ -1,2 +1,3 @@
 # Grilik
-A guessing card game
+
+A card game like none other!
